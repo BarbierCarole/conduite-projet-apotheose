@@ -4,7 +4,7 @@
 
 ### >>> Appli comme [Moving Planner](https://play.google.com/store/apps/details?id=com.jimbl.movingplanner)
 <details>
-<summary> Voir les copies d'écran </summary>
+<summary> Voir les copies d'écran - cliquer dessus pour agrandir <img src="https://lh3.googleusercontent.com/parOJFLgmFa7uzzhkGlLvJjK7lKzYrqDO-WZ6vEwEtKsT2DjTjvOuhMuVS_QqAXPraz_=w967-h916-rw" alt="drawing" width="200"/></summary>
 
 <img src="https://lh3.googleusercontent.com/parOJFLgmFa7uzzhkGlLvJjK7lKzYrqDO-WZ6vEwEtKsT2DjTjvOuhMuVS_QqAXPraz_=w967-h916-rw" alt="drawing" width="700"/> <img src="https://lh3.googleusercontent.com/SBzddq7EH4fc7GR0fLUN2zdmwQvPD1R-TLESHoIDxK8IZ-IHdb5CmtYI8FVy1Lfu8vCZ=w967-h916-rw" alt="drawing" width="700"/> <img src="https://lh3.googleusercontent.com/IxoAoi8Ecjc-9VuWvRew5qp20cMUFKes9eF1KhIzw-kKDC8Q1JRw-l_WJiMbIq-RRrAq=w967-h916-rw" alt="drawing" width="700"/> <img src="https://lh3.googleusercontent.com/V3hA0IZhG7L5vgGQ9uB9oVnEyQFNeGmy1mkpYZQoOEcf7QInbSuDy-le2hJ9t5gAUlA=w967-h916-rw" alt="drawing" width="700"/> <img src="https://lh3.googleusercontent.com/WJoyvB0UF590ZmsDb8H1Jh_k5snWMJBRMOC_p3Sai5pwuHYnKg_ptiZFQRJ4SbmDP58=w967-h916-rw" alt="drawing" width="700"/> <img src="https://lh3.googleusercontent.com/MkcSk7NQAK_FbQWH7MA7tPd6gxKhXIQAGUqdRHDEhvXSbPAyQC3pu_wESi0BOY4h5A=w967-h916-rw" alt="drawing" width="700"/>
 </details>
@@ -25,7 +25,7 @@ taille du carton: S/M/L
 
 ### >>> Appli comme Range-Cartons / I-cartons (apple)
 <details>
-<summary> Voir les copies d'écran </summary>
+<summary> Voir les copies d'écran - cliquer dessus pour agrandir <img src="https://www.ateliers14.com/wp-content/uploads/sites/27/2018/08/screenshots-appli-i-cartons.jpg" alt="i-cartons" height="200"/></summary>
 
 <img src="https://www.ateliers14.com/wp-content/uploads/sites/27/2018/08/screenshots-appli-i-cartons.jpg" alt="i-cartons" height="500"/>
 <img src="https://www.memoclic.com/medias/var/2015-02/interface-range-cartons.png" alt="i-cartons" width="700">
@@ -65,7 +65,7 @@ taille du carton: S/M/L
   
 ### >>> et plus si affinité ...
 
-#### des rétroplannings :
+#### des rétroplannings (cliquer sur les images pour les agrandir):
 
 <details>
 <summary><img src="https://media.immonot.com/CONTENU/ARTICLE/600/1433339453860_telechargement.jpg" alt="drawing" height="200"/></summary>
