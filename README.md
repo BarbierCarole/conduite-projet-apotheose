@@ -28,7 +28,7 @@ taille du carton: S/M/L
 <summary> Voir les copies d'écran </summary>
 
 <img src="https://www.ateliers14.com/wp-content/uploads/sites/27/2018/08/screenshots-appli-i-cartons.jpg" alt="i-cartons" height="500"/>
-<img src="https://www.memoclic.com/medias/var/2015-02/interface-range-cartons.png" alt="i-cartons" wigth="700">
+<img src="https://www.memoclic.com/medias/var/2015-02/interface-range-cartons.png" alt="i-cartons" width="700">
 </details>
 
 #### Ce que j'ai aimé :
@@ -68,8 +68,13 @@ taille du carton: S/M/L
 #### des rétroplannings :
 
 <details>
-<summary><img src="https://media.immonot.com/CONTENU/ARTICLE/600/1433339453860_telechargement.jpg" alt="drawing" width="200"/></summary>
+<summary><img src="https://media.immonot.com/CONTENU/ARTICLE/600/1433339453860_telechargement.jpg" alt="drawing" height="400"/></summary>
 <img src="https://media.immonot.com/CONTENU/ARTICLE/600/1433339453860_telechargement.jpg" alt="drawing" />
+</details>
+
+<details>
+<summary><img src="https://media.paruvendu.fr/cms/pictures//2015120115135456.jpg" alt="i-cartons" height="400"/></summary>
+<img src="https://media.paruvendu.fr/cms/pictures//2015120115135456.jpg" alt="i-cartons" heigth="900">
 </details>
 
 ## 2 - User-stories
