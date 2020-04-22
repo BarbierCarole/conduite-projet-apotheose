@@ -68,14 +68,16 @@ taille du carton: S/M/L
 #### des rétroplannings :
 
 <details>
-<summary><img src="https://media.immonot.com/CONTENU/ARTICLE/600/1433339453860_telechargement.jpg" alt="drawing" height="400"/></summary>
+<summary><img src="https://media.immonot.com/CONTENU/ARTICLE/600/1433339453860_telechargement.jpg" alt="drawing" height="200"/></summary>
 <img src="https://media.immonot.com/CONTENU/ARTICLE/600/1433339453860_telechargement.jpg" alt="drawing" />
 </details>
 
 <details>
-<summary><img src="https://media.paruvendu.fr/cms/pictures//2015120115135456.jpg" alt="i-cartons" height="400"/></summary>
-<img src="https://media.paruvendu.fr/cms/pictures//2015120115135456.jpg" alt="i-cartons" heigth="900">
+<summary><img src="https://media.paruvendu.fr/cms/pictures//2015120115135456.jpg" alt="i-cartons" height="200"/></summary>
+<img src="https://media.paruvendu.fr/cms/pictures//2015120115135456.jpg" alt="i-cartons" heigth="700">
 </details>
+
+et un dernier mais en texte et plus détaillé [www.movinga.fr/hub/conseils/check-list-demenagement/](https://www.movinga.fr/hub/conseils/check-list-demenagement/)
 
 ## 2 - User-stories
 
