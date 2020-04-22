@@ -68,8 +68,8 @@ taille du carton: S/M/L
 #### des rétroplannings :
 
 <details>
-<summary><img src="https://media.immonot.com/CONTENU/ARTICLE/600/1433339453860_telechargement.jpg" alt="drawing" width="400"/></summary>
-![retroplanning 1](https://media.immonot.com/CONTENU/ARTICLE/600/1433339453860_telechargement.jpg)
+<summary><img src="https://media.immonot.com/CONTENU/ARTICLE/600/1433339453860_telechargement.jpg" alt="drawing" width="200"/></summary>
+<img src="https://media.immonot.com/CONTENU/ARTICLE/600/1433339453860_telechargement.jpg" alt="drawing" />
 </details>
 
 ## 2 - User-stories
