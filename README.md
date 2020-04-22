@@ -50,7 +50,7 @@ taille du carton: S/M/L
 "fragile", 
 taille du carton: S/M/L
 
-### >>> Appli comme cool move (dispo gratuit sur android) - pas de gestion da carton mais design et fonctionnalités interessantes (v2 ?)
+### >>> Appli comme cool move (dispo gratuit sur android) - pas de gestion de cartons mais design et fonctionnalités intéressantes (v2 ?)
 
   - [Dossier d images](https://drive.google.com/drive/folders/1l67lIkfYDU5baY18oVLCBy7aKRkh4A2f?usp=sharing)
 #### Ce que j'ai aimé :
@@ -63,7 +63,14 @@ taille du carton: S/M/L
 - recap rapide taches restantes, à faire au plus vite
 - les actions/items sont modifiables 'nom, importance, état, ajouter au calendrier, notification
   
+### >>> et plus si affinité ...
 
+#### des rétroplannings :
+
+<details>
+<summary><img src="https://media.immonot.com/CONTENU/ARTICLE/600/1433339453860_telechargement.jpg" alt="drawing" width="400"/></summary>
+![retroplanning 1](https://media.immonot.com/CONTENU/ARTICLE/600/1433339453860_telechargement.jpg)
+</details>
 
 ## 2 - User-stories
 
